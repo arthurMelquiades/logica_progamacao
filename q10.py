@@ -23,3 +23,4 @@ def main():
             # Caso o palpite seja correto, encerra o jogo
             print(f"Parabéns! Você acertou. O número secreto era {numero_secreto}.")
            
+ 
